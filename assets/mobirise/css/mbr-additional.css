@@ -21,3 +21,13 @@
 #header1-a B {
   font-size: 30px;
 }
+#menu-b .navbar-toggler {
+  color: #000;
+}
+#header1-c P {
+  font-size: 22px;
+  text-align: left;
+}
+#header1-c H1 {
+  font-size: 72px;
+}
