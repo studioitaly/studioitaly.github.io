@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
 #menu-0 .navbar-toggler {
   color: #000;
@@ -10,10 +10,14 @@
   font-size: 72px;
 }
 #header1-a H1 {
-  font-size: 24px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-family: 'Alegreya Sans', sans-serif;
   color: #f1c050;
 }
 #header1-a P {
   text-align: left;
+  font-size: 22px;
+}
+#header1-a B {
+  font-size: 30px;
 }

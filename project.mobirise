@@ -112,13 +112,17 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "font-size": "24px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "color": "#f1c050"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "22px"
+            },
+            "B": {
+              "font-size": "30px"
             }
           },
           "_anchor": "header1-a",
