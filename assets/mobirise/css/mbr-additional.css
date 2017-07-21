@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#menu-0 .navbar-toggler {
+  color: #000;
+}
+#header1-2 P {
+  font-size: 22px;
+}
+#header1-2 H1 {
+  font-size: 72px;
+}
+#header1-a H1 {
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+  color: #f1c050;
+}
+#header1-a P {
+  text-align: left;
+}
