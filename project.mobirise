@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Studio Italy",
-    "currentPage": "impressum.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -17,7 +17,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Studio Italy Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
